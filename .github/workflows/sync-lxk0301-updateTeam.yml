@@ -2,7 +2,7 @@ name: sync-lxk0301-updateTeam
 
 on:
   schedule:
-    - cron:  "*/30 * * * *"
+    - cron:  ""
   workflow_dispatch:
   watch:
     types: started
